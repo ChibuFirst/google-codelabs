@@ -23,4 +23,9 @@ Lesson 1 includes the following codelabs:
 * 1.3 [Image resources and compatibility](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals)
 * 1.4 [Learn to help yourself](https://codelabs.developers.google.com/codelabs/kotlin-android-training-available-resources/index.html?index=..%2F..android-kotlin-fundamentals)
 
+### Lesson 2: Layouts
+Lesson 2 includes the following codelabs:
+* 2.1 Linear layout using the Layout Editor
+* 2.2 Add user interactivity
+
 > Others coming soon...
