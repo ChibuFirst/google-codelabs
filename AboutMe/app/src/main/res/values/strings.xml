@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Onuoha Godfirst Chibuzo</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Chibuzo.
+        \n\nI love \"keyboard.\"
+        \n\nIn music, keyboard can be seen as piano. As the name implies, it is made up of keys which when combined together, produces meaning sound.
+        \nThough I\'m still learning it, I can play western worships on key C, C#, F, F# and G.
+        \n\nKeyboard on the other hand can be found in a computer system. It is also made up of keys as the name implies and each key has its own function.
+        \nAs a developer, I use this kind of keyboard a lot for coding.
+        \nCoding is now a way I can solve some problems and its in line with my career.
+        \n\nI love eating Yam. Whether cooked, fried, boiled and any other means.
+        \nTo the extent I once cultivated yam at the back of my house.
+        \nYam is really my best food. I\'ll be happy to teach anyone how to cook it if possible.
+    </string>
+</resources>
