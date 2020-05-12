@@ -25,7 +25,9 @@ Lesson 1 includes the following codelabs:
 
 ### Lesson 2: Layouts
 Lesson 2 includes the following codelabs:
-* 2.1 Linear layout using the Layout Editor
-* 2.2 Add user interactivity
+* 2.1 [Linear layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/index.html?index=..%2F..android-kotlin-fundamentals)
+* 2.2 [Add user interactivity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity/index.html?index=..%2F..android-kotlin-fundamentals)
+* 2.3 [Constraint layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/index.html?index=..%2F..android-kotlin-fundamentals)
+* 2.4 [Data-binding basics](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics/index.html?index=..%2F..android-kotlin-fundamentals)
 
 > Others coming soon...
