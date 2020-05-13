@@ -30,4 +30,10 @@ Lesson 2 includes the following codelabs:
 * 2.3 [Constraint layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-constraint-layout/index.html?index=..%2F..android-kotlin-fundamentals)
 * 2.4 [Data-binding basics](https://codelabs.developers.google.com/codelabs/kotlin-android-training-data-binding-basics/index.html?index=..%2F..android-kotlin-fundamentals)
 
+### Lesson 3: Navigation
+Lesson 3 includes the following codelabs:
+* 3.1 [Create a fragment](https://codelabs.developers.google.com/codelabs/kotlin-android-training-create-and-add-fragment/index.html)
+* 3.2 [Define navigation paths](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html)
+* 3.3 [Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html)
+
 > Others coming soon...
