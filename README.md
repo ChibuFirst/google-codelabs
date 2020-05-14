@@ -36,4 +36,8 @@ Lesson 3 includes the following codelabs:
 * 3.2 [Define navigation paths](https://codelabs.developers.google.com/codelabs/kotlin-android-training-add-navigation/index.html)
 * 3.3 [Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html)
 
+### Lesson 4: Activity and fragment lifecycles
+* 4.1 [Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html)
+* 4.2 [Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html)
+
 > Others coming soon...
