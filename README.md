@@ -40,4 +40,8 @@ Lesson 3 includes the following codelabs:
 * 4.1 [Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html)
 * 4.2 [Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html)
 
+### Lesson 5: Architecture components
+* 5.1 [ViewModel and ViewModelProvider](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model)
+* 5.2: [LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data)
+
 > Others coming soon...
