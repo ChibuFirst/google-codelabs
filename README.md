@@ -43,5 +43,7 @@ Lesson 3 includes the following codelabs:
 ### Lesson 5: Architecture components
 * 5.1 [ViewModel and ViewModelProvider](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model)
 * 5.2: [LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data)
+* 5.3: [DataBinding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding)
+* 5.4: [LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations)
 
 > Others coming soon...
