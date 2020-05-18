@@ -54,4 +54,9 @@ Lesson 6 includes the following codelabs:
 * 6.2 [Coroutines and Room](https://codelabs.developers.google.com/codelabs/kotlin-android-training-coroutines-and-room)
 * 6.3 [Record quality and button states](https://codelabs.developers.google.com/codelabs/kotlin-android-training-quality-and-states)
 
+### Lesson 7: RecyclerView
+Lesson 7 includes the following codelabs:
+* 7.1 [RecyclerView fundamentals](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals)
+* 7.2 [DiffUtil and data binding with RecyclerView](https://codelabs.developers.google.com/codelabs/kotlin-android-training-diffutil-databinding)
+
 > Others coming soon...
