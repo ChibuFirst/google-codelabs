@@ -37,13 +37,21 @@ Lesson 3 includes the following codelabs:
 * 3.3 [Start an external activity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-start-external-activity/index.html)
 
 ### Lesson 4: Activity and fragment lifecycles
+Lesson 4 includes the following codelabs:
 * 4.1 [Lifecycles and logging](https://codelabs.developers.google.com/codelabs/kotlin-android-training-lifecycles-logging/index.html)
 * 4.2 [Complex lifecycle situations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-complex-lifecycle/index.html)
 
 ### Lesson 5: Architecture components
+Lesson 5 includes the following codelabs:
 * 5.1 [ViewModel and ViewModelProvider](https://codelabs.developers.google.com/codelabs/kotlin-android-training-view-model)
 * 5.2: [LiveData and LiveData observers](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data)
 * 5.3: [DataBinding with ViewModel and LiveData](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-data-binding)
 * 5.4: [LiveData transformations](https://codelabs.developers.google.com/codelabs/kotlin-android-training-live-data-transformations)
+
+### Lesson 6: Room database and coroutines
+Lesson 6 includes the following codelabs:
+* 6.1 [Create a Room database](https://codelabs.developers.google.com/codelabs/kotlin-android-training-room-database)
+* 6.2 [Coroutines and Room](https://codelabs.developers.google.com/codelabs/kotlin-android-training-coroutines-and-room)
+* 6.3 [Record quality and button states](https://codelabs.developers.google.com/codelabs/kotlin-android-training-quality-and-states)
 
 > Others coming soon...
